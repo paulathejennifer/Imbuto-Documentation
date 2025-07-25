@@ -50,7 +50,7 @@ For more information on our platform follow the [How-To Guides](./how-to-guide.m
 
 Explore detailed documentation organized by topic:
 
-- [Introduction](./documentation/product-overview.md)  
+- [Introduction](./product-overview.md)  
   Overview of Imbuto, its purpose, key users, and problem statement.
 
 - [Getting Started](./documentation/getting-started.md)  
