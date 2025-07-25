@@ -1,4 +1,4 @@
-## Market Overview <
+## Market Overview 
  * Rwanda has an estimated 1 million smallholder dairy farmers, many organized into cooperatives.
 
 
@@ -33,7 +33,7 @@ Our app stands out due to:
 * Simple, user-friendly UI for low-literacy farmers.
 
 
-* Integrated notifications and financial tracking.
+* Integrated notifications and financial transactions.
 
 
 ## Business Logic 
