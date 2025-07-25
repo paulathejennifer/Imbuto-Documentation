@@ -48,6 +48,7 @@ The Imbuto platform is designed as a **web and mobile application architecture**
 
 ---
 
+
 ## Security and Data Privacy
 
 - All communications between app clients and backend APIs use HTTPS for encryption.  
