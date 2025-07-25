@@ -22,3 +22,6 @@ Small to medium dairy cooperatives and farmers who need scalable and reliable to
 - Enhances transparency and communication between farmers and cooperatives  
 - Reduces payment delays and errors  
 - Provides insights through data visualization to boost productivity
+
+
+For more information on our platform follow the [How-To Guides](./how-to-guide.md).

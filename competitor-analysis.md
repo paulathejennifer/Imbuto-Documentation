@@ -7,4 +7,4 @@
 | AgriManage           | Comprehensive analytics, multi-language      | Slower customer support                          | Tiered pricing    | Growing internationally     |
 
 ## Insights  
-Opportunities exist to differentiate by offering seamless payment integration with MTN MoMo, better user experience tailored to small/medium cooperatives, and stronger farmer engagement tools.
+Opportunities exist to differentiate by offering seamless payment integration with Daraja API, better user experience tailored to small/medium cooperatives, and stronger farmer engagement tools.
