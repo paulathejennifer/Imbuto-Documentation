@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Imbuto Hub Documentation - User / Buyer Personas</title>
+  <style>
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      max-width: 900px;
+      margin-left: 500px;
+      color: #333;
+      background: #f9f9f9;
+    }
+
+
+    h1, h2 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      border-bottom: 2px solid #2980b9;
+      padding-bottom: 0.3em;
+    }
+
+
+.persona {
+  margin-bottom: 3em;
+  background: white;
+  padding: 15px 20px;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
+.persona img {
+  width: 100%;
+  max-width: 800px; 
+  height: auto;
+  margin-bottom: 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  float: none; 
+}
+
+
+ul {
+  padding-left: 0;
+  margin-top: 0;
+  text-align: left;
+  max-width: 600px; 
+  width: 100%;
+}
+
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media (max-width: 700px) {
+  .persona {
+    padding: 10px 15px;
+  }
+  .persona img {
+    max-width: 100%;
+  }
+  ul {
+    max-width: 100%;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <h1>User / Buyer Personas</h1>
+
+  <section class="persona clearfix">
+    <h2>1. Farmer</h2>
+    <img src="./images/Grace.png" alt="Farmer Persona - Grace" />
+    <ul>
+      <li><strong>Demographics:</strong> Small to medium-scale dairy farmer, typically aged 25-55, rural location</li>
+      <li><strong>Goals:</strong> Easily register and maintain membership, track milk deliveries, receive timely payments, monitor production progress</li>
+      <li><strong>Pain Points:</strong> Delayed payments, lack of transparency in delivery records, difficulty accessing cooperative services</li>
+      <li><strong>Technology Usage:</strong> Uses a smartphone or basic computer; prefers simple UI for registration and notifications</li>
+    </ul>
+  </section>
+
+  <section class="persona clearfix">
+    <h2>2. Cooperative Official</h2>
+    <img src="./images/James.png" alt="Cooperative Official Persona - James" />
+    <ul>
+      <li><strong>Demographics:</strong> Administrator or manager of dairy cooperatives, aged 30-60, mid-level technical proficiency</li>
+      <li><strong>Goals:</strong> Manage member records, track and validate milk deliveries, initiate payments, analyze cooperative performance</li>
+      <li><strong>Pain Points:</strong> Time-consuming manual processes, data inconsistencies, payment delays, member communication challenges</li>
+      <li><strong>Technology Usage:</strong> Regular user of desktop or laptop, familiar with CRM/admin interfaces</li>
+    </ul>
+  </section>
+
+</body>
+</html>

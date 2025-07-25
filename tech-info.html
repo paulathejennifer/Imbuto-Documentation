@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Imbuto Hub Documentation - Technical Information</title>
+  </head>
+  
+  <body>
+
+  <style>
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      max-width: 900px;
+      margin-left: 500px;
+      color: #333;
+      background: #f9f9f9;
+    }
+
+    h1, h2, h3 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      border-bottom: 2px solid #2980b9;
+      padding-bottom: 0.3em;
+    }
+
+    h2 {
+      border-bottom: 1px solid #bdc3c7;
+      padding-bottom: 0.2em;
+    }
+
+    h3 {
+      margin-top: 1em;
+      margin-bottom: 0.3em;
+    }
+
+    p {
+      margin-bottom: 1em;
+    }
+
+
+    ul {
+      padding-left: 20px;
+      margin-bottom: 1em;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 2em;
+    }
+
+    th, td {
+      border: 1px solid #bbb;
+      padding: 10px 15px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background-color: #d6e9f8;
+      color: #194d99;
+      font-weight: 600;
+    }
+
+
+    strong {
+      color: #194d99;
+    }
+
+
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 3em 0;
+    }
+
+
+    a {
+      color: #2980b9;
+      text-decoration: none;
+      transition: color 0.2s ease-in-out;
+    }
+
+    a:hover, a:focus {
+      text-decoration: underline;
+      color: #1c5980;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        margin: 10px;
+        max-width: 100%;
+      }
+      table, th, td {
+        font-size: 14px;
+      }
+    }
+  </style>
+  <h1>Technical Information</h1>
+
+  <h2>System Architecture Overview</h2>
+
+  <p>The Imbuto platform is designed as a <strong>web and mobile application architecture</strong> that supports data management for dairy cooperative operations. It separates concerns between front-end user interfaces, backend services, daily data storage, and external integrations.</p>
+
+  <h3>Key Components</h3>
+  <ul>
+    <li><strong>Mobile App (Farmers):</strong><br>
+        A React-based mobile application allowing farmers to input milk delivery records, update profiles, receive notifications, and track payments. It communicates with backend APIs over the internet.
+    </li>
+    <li><strong>Web Application (Cooperative Officials):</strong><br>
+        A React.js application accessed via web browsers. It facilitates membership management, milk record entry, payment processing, and progress tracking dashboards.
+    </li>
+    <li><strong>Backend API Layer:</strong><br>
+        Developed using Django (Python), the backend has RESTful APIs that provide business logic including user authentication, membership management, milk record handling, payment scheduling, notifications, and data analytics.
+    </li>
+    <li><strong>Database:</strong><br>
+        SQLite3 serves as the primary relational database storing user profiles, membership details, milk delivery records, payment transactions, and progress tracking data.
+    </li>
+    <li><strong>Notification Services:</strong><br>
+        SMS APIs are integrated to notify farmers about deliveries and payments.
+    </li>
+    <li><strong>Payment Integration:</strong><br>
+        The platform integrates with Mpesa Mobile Money (Daraja) API to automate farmer payment disbursements every 15 days, handling transaction initiation, verification, and status updates.
+    </li>
+  </ul>
+
+  <h3>Data Flow Example (Milk Record Management)</h3>
+  <ol>
+    <li>Cooperative officials input daily milk deliveries via the web app.</li>
+    <li>Data is stored in the <code>milkrecords</code> table in the SQLite3 database.</li>
+    <li>Backend triggers an SMS and/or push notification to the farmer with delivery details.</li>
+    <li>Farmer responds via the mobile app to confirm or dispute.</li>
+    <li>Backend updates delivery status accordingly, visible in both farmer app and official dashboard.</li>
+  </ol>
+
+  <hr />
+
+  <h2>Technology Stack</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Layer</th>
+        <th>Technology / Tools</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Frontend Mobile App</td>
+        <td>Android JetPack Compose</td>
+        <td>Farmer interface for milk entries &amp; payments</td>
+      </tr>
+      <tr>
+        <td>Frontend Web App</td>
+        <td>React.js</td>
+        <td>Cooperative official dashboard &amp; management</td>
+      </tr>
+      <tr>
+        <td>Backend API</td>
+        <td>Django Rest Framework (Python)</td>
+        <td>Business logic, authentication, APIs</td>
+      </tr>
+      <tr>
+        <td>Database</td>
+        <td>SQLite3</td>
+        <td>Relational DB for persistent application data</td>
+      </tr>
+      <tr>
+        <td>Payment Gateway</td>
+        <td>Mpesa Mobile Money (Daraja) API integration</td>
+        <td>Mobile money payment processing</td>
+      </tr>
+      <tr>
+        <td>Hosting / Infrastructure</td>
+        <td>Heroku</td>
+        <td>Hosting backend APIs, databases, static files</td>
+      </tr>
+      <tr>
+        <td>Version Control</td>
+        <td>Git + GitHub</td>
+        <td>Source code management and deployment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr />
+
+  <h2>Security and Data Privacy</h2>
+  <ul>
+    <li>All communications between app clients and backend APIs use HTTPS for encryption.</li>
+    <li>User data and passwords are securely stored and hashed in the database.</li>
+    <li>Role-based access control ensures cooperative officials have admin rights while farmers have limited, profile-specific access.</li>
+    <li>Password recovery links expire after a controlled period (3 minutes) to enhance security.</li>
+  </ul>
+</body>
+</html>
