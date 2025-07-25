@@ -77,7 +77,7 @@ Explore detailed documentation organized by topic:
 - [Troubleshooting](./troubleshooting.md)  
   Help for common issues and technical problems.
 
-- [Technical Information](./technical-info.md)  
+- [Technical Information](./tech-info.md)  
   System architecture, technology stack, API references, and integrations.
 
 - [Contact Support](./contact-support.md)  
