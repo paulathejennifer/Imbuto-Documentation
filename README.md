@@ -63,7 +63,7 @@ Explore detailed documentation organized by topic:
 - [How-To Guides](./documentation/how-to-guide.md)  
   Step-by-step guides for common tasks such as account creation and joining programs.
 
-- [Customer Journey Maps](./documentation/customer-journey-maps.md)  
+- [Customer Journey Maps](/home/student/Imbuto-Documentation/documentation/customer-journey-maps.md)  
   High-level and detailed journey maps featuring user personas and touchpoints.
 
 - [FAQs](./documentation/faqs.md)  
