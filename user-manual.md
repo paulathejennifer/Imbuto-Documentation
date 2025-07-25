@@ -18,3 +18,10 @@ Provide a comprehensive manual describing the features, workflows, and user role
 - Data export/import
 - Reporting and analytics interfaces
 - Administrative tools (if applicable)
+
+
+
+For step-by-step instructions, see the [How-To Guides](./how-to-guide.md).
+
+If you face issues, check the [Troubleshooting](./troubleshooting.md) section.
+

@@ -6,6 +6,16 @@ This platform supports community empowerment through multilingual social project
 
 ---
 
+
+## Project Overview
+
+Imbuto aims to connect and empower diverse communities by providing tools for:  
+- Multilingual program participation  
+- Progress tracking and reporting  
+- Community collaboration  
+- Data-driven decision making
+
+=======
 # Product Overview
 
 ## Product Name  
@@ -33,7 +43,7 @@ Small to medium dairy cooperatives and farmers who need scalable and reliable to
 
 
 For more information on our platform follow the [How-To Guides](./how-to-guide.md).
----
+
 
 ## Documentation Structure
 
