@@ -46,9 +46,6 @@ Small to medium dairy cooperatives and farmers who need scalable and reliable to
 - Provides insights through data visualization to boost productivity
 
 
-For more information on our platform follow the [How-To Guides](. /how-to-guide.md).
-
-
 ## Documentation Structure
 
 Explore detailed documentation organized by topic:
