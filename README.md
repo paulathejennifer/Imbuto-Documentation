@@ -14,8 +14,9 @@ Imbuto aims to connect and empower diverse communities by providing tools for:
 - Progress tracking and reporting  
 - Community collaboration  
 - Data-driven decision making
+  
+---
 
-=======
 # Product Overview
 
 ## Product Name  
