@@ -43,38 +43,38 @@ Small to medium dairy cooperatives and farmers who need scalable and reliable to
 - Provides insights through data visualization to boost productivity
 
 
-For more information on our platform follow the [How-To Guides](./how-to-guide.md).
+For more information on our platform follow the [How-To Guides](./documentation/how-to-guide.md).
 
 
 ## Documentation Structure
 
 Explore detailed documentation organized by topic:
 
-- [Introduction](./product-overview.md)  
+- [Introduction](./documentation/product-overview.md)  
   Overview of Imbuto, its purpose, key users, and problem statement.
 
-- [Getting Started](./getting-started.md)  
+- [Getting Started](./documentation/getting-started.md)  
   How to access and begin using the platform including registration and onboarding.
 
-- [User Manuals](./user-manual.md)  
+- [User Manuals](./documentation/user-manual.md)  
   Comprehensive manuals covering platform features and workflows for participants.
 
-- [How-To Guides](./how-to-guide.md)  
+- [How-To Guides](./documentation/how-to-guide.md)  
   Step-by-step guides for common tasks such as account creation and joining programs.
 
-- [Customer Journey Maps](./customer-journey-maps.md)  
+- [Customer Journey Maps](./documentation/customer-journey-maps.md)  
   High-level and detailed journey maps featuring user personas and touchpoints.
 
-- [FAQs](./faqs.md)  
+- [FAQs](./documentation/faqs.md)  
   Frequently asked questions for users and administrators.
 
-- [Troubleshooting](./troubleshooting.md)  
+- [Troubleshooting](./documentation/troubleshooting.md)  
   Help for common issues and technical problems.
 
-- [Technical Information](./technical-info.md)  
+- [Technical Information](./documentation/technical-info.md)  
   System architecture, technology stack, API references, and integrations.
 
-- [Contact Support](./contact-support.md)  
+- [Contact Support](./documentation/contact-support.md)  
   How to reach out for help and support resources.
 
 ---
@@ -84,4 +84,4 @@ Thank you for being part of the Imbuto community and driving positive change thr
 ---
 
 *Navigation Tip:* Click the links above to quickly access the different sections.  
-You can also explore the [full documentation folder here](. /) for all files.
+You can also explore the [full documentation folder here](. /documentation/) for all files.
