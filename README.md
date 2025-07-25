@@ -62,6 +62,9 @@ Explore detailed documentation organized by topic:
 
 - [How-To Guides](./how-to-guide.md)  
   Step-by-step guides for common tasks such as account creation and joining programs.
+  
+- [User Personas](./user-personas.md)  
+  Meet our user/personas representing thousands of small holder farmers in Rwanda.
 
 - [Customer Journey Maps](./customer-journey-maps.md)  
   High-level and detailed journey maps featuring user personas and touchpoints.
@@ -85,4 +88,6 @@ Thank you for being part of the Imbuto community and driving positive change thr
 ---
 
 *Navigation Tip:* Click the links above to quickly access the different sections.  
+
 You can also explore the [full documentation folder here](.  /) for all files.
+

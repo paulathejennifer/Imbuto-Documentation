@@ -24,6 +24,8 @@ Small to medium dairy cooperatives and farmers who need scalable and reliable to
 - Reduce payment delays and errors  
 - Provides insight through data visualization to boost productivity
 
+
+
 # Core Features:
 
 Milk Record Management: Efficiently capture and track daily milk deliveries from farmers to the cooperative, with accurate quantity and quality data input.
