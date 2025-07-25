@@ -31,6 +31,9 @@ Explore detailed documentation organized by topic:
 
 - [How-To Guides](./how-to-guide.md)  
   Step-by-step guides for common tasks such as account creation and joining programs.
+  
+- [User Personas](./user-personas.md)  
+  Meet our user/personas representing thousands of small holder farmers in Rwanda.
 
 - [Customer Journey Maps](./customer-journey-maps.md)  
   High-level and detailed journey maps featuring user personas and touchpoints.
