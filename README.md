@@ -59,22 +59,22 @@ Explore detailed documentation organized by topic:
 - [User Manuals](./documentation/user-manual.md)  
   Comprehensive manuals covering platform features and workflows for participants.
 
-- [How-To Guides](./documentation/how-to-guide.md)  
+- [How-To Guides](./how-to-guide.md)  
   Step-by-step guides for common tasks such as account creation and joining programs.
 
-- [Customer Journey Maps](./documentation/customer-journey-maps.md)  
+- [Customer Journey Maps](./customer-journey-maps.md)  
   High-level and detailed journey maps featuring user personas and touchpoints.
 
-- [FAQs](./documentation/faqs.md)  
+- [FAQs](./faqs.md)  
   Frequently asked questions for users and administrators.
 
-- [Troubleshooting](./documentation/troubleshooting.md)  
+- [Troubleshooting](./troubleshooting.md)  
   Help for common issues and technical problems.
 
-- [Technical Information](./documentation/technical-info.md)  
+- [Technical Information](./technical-info.md)  
   System architecture, technology stack, API references, and integrations.
 
-- [Contact Support](./documentation/contact-support.md)  
+- [Contact Support](./contact-support.md)  
   How to reach out for help and support resources.
 
 ---
