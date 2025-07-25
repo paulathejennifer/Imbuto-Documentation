@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Imbuto Hub Documentation - Market Overview</title>
+  <style>
+    /* General body styles */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      max-width: 900px;
+            margin-left: 500px;
+      color: #333;
+      background: #f9f9f9;
+    }
+
+
+    h1, h2, h3 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.4em;
+    }
+
+    h1 {
+      border-bottom: 2px solid #2980b9;
+      padding-bottom: 0.3em;
+    }
+
+
+    p {
+      margin-bottom: 1em;
+    }
+
+
+    ul {
+      padding-left: 20px;
+      margin-bottom: 1em;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1em 0;
+    }
+
+
+    a {
+      color: #2980b9;
+      text-decoration: none;
+      transition: color 0.2s ease-in-out;
+    }
+
+    a:hover, a:focus {
+      text-decoration: underline;
+      color: #1c5980;
+    }
+
+    .section-list {
+      margin-top: 0.5em;
+      margin-bottom: 1.5em;
+    }
+
+    .note {
+      background: #edf4fc;
+      border-left: 4px solid #2980b9;
+      padding: 0.8em 1em;
+      border-radius: 4px;
+      margin: 1em 0;
+      font-style: italic;
+      color: #555;
+    }
+
+
+    
+    @media (max-width: 600px) {
+      body {
+        margin: 10px;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Market Overview</h1>
+  <ul>
+    <li>Rwanda has an estimated 1 million smallholder dairy farmers, many organized into cooperatives.</li>
+    <li>The dairy market is growing due to rising domestic demand and government initiatives encouraging milk production.</li>
+    <li>Challenges include lack of transparency in milk collection, inconsistent payment, and manual record-keeping by cooperatives.</li>
+  </ul>
+
+  <h2>Market Opportunity</h2>
+  <ul>
+    <li>Impact opportunity to enhance revenue and payment timeliness, improving livelihoods.</li>
+    <li>Currently no widely adopted digital solution tailored to Rwandan dairy cooperatives.</li>
+  </ul>
+
+  <h2>Business Goals</h2>
+  <ul>
+    <li>Deploy application to 10 cooperatives within 12 months.</li>
+    <li>Achieve 80% farmer adoption within cooperatives.</li>
+    <li>Reduce payment delays by 70% within the first year of use.</li>
+  </ul>
+
+  <h2>Product Positioning</h2>
+  <ul>
+    <li>Simple, user-friendly UI for low-literacy farmers.</li>
+    <li>Integrated notifications and financial transactions.</li>
+  </ul>
+
+  <h2>Business Logic</h2>
+
+  <h3>Milk delivery recorded by official → Automatically triggers notification to farmer.</h3>
+  <img src="./images/milkrecord.png" alt="Milk delivery record notification diagram" />
+
+  <h3>Payments are linked to specific milk deliveries.</h3>
+  <img src="./images/payments.png" alt="Payments linked to milk deliveries diagram" />
+
+  <h3>Only deliver notifications for confirmed or validated milk deliveries.</h3>
+  <img src="./images/notification1.png" alt="Notification for confirmed milk deliveries diagram" />
+
+  <h2>Technical Requirements</h2>
+  <ul class="section-list">
+    <li>Web-based application accessible on desktop for cooperative officials.</li>
+    <li>Mobile app for farmers with SMS notification fallback.</li>
+    <li>Backend server with secure database.</li>
+    <li>Integration planned with Mpesa Deraja APIs.</li>
+  </ul>
+
+  <h2>Non-Functional Requirements</h2>
+  <ul class="section-list">
+    <li>Fast performance - pages load within 3 seconds.</li>
+    <li>Secure data storage with encryption.</li>
+    <li>Scalable architecture to onboard new cooperatives easily.</li>
+  </ul>
+
+  <p class="note">For more information on market overview, check out our <a href="./competitor-analysis.html">competitor analysis</a>.</p>
+</body>
+</html>
