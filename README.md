@@ -9,12 +9,13 @@ This platform supports community empowerment through multilingual social project
 
 ## Project Overview
 
-Imbuto aims to connect and empower diverse communities by providing tools for:  
-- Multilingual program participation  
-- Progress tracking and reporting  
-- Community collaboration  
-- Data-driven decision making
-  
+Milk Record Management: Efficiently capture and track daily milk deliveries from farmers to the cooperative, with accurate quantity and quality data input.
+
+Progress Tracking: Monitor farmer participation, milk production trends, and cooperative performance over time to enable data-driven decisions.
+
+Payment Processing: Integrate with M-Pesa mobile money to ensure timely, transparent, and secure payment disbursements to farmers directly through the platform.
+
+Membership Management: Maintain organized records of cooperative members including registration, profiles, and participation status for streamlined administration.
 ---
 
 # Product Overview
