@@ -36,8 +36,10 @@ Payment Processing: Integrate with M-Pesa mobile money to ensure timely, transpa
 
 Membership Management: Maintain organized records of cooperative members including registration, profiles, and participation status for streamlined administration.
 
+[Getting Started?](./getting-started.md).
 
-For more information[ check out our How-To Guides](./how-to-guide.md).
+
+
 
 [ User Guide](./user-manual.md). | [ Users](./user-personas.md). | [ Market](./market.md).  |  [ User Roadmap](./roadmap.md).  |  [ Product Vision](./product-vision.md).
 
