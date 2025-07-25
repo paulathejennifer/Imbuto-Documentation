@@ -51,3 +51,8 @@
 - Collect feedback and prioritize improvements.
 - Maintain release notes and documentation with each deployment.
 
+
+
+
+For more information[ check out our Visual representation](https://lucid.app/lucidchart/c9322936-47a1-4a1f-8a22-693673932aa6/edit?viewport_loc=-6724%2C-2099%2C4616%2C2397%2C0_0&invitationId=inv_81a0ff53-a0a9-4553-b23a-d7bc619d30ff).
+

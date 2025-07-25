@@ -1,4 +1,4 @@
-<h1 style="color:green"> Market Overview </h1>
+## Market Overview <
  * Rwanda has an estimated 1 million smallholder dairy farmers, many organized into cooperatives.
 
 
@@ -7,7 +7,7 @@
 
 * Challenges include lack of transparency in milk collection, inconsistent payment, and manual record-keeping by cooperatives.
 
-<h1 style="color:green"> Market Opportunity </h1>
+## Market Opportunity
 
 * Impact opportunity to enhance revenue and payment timeliness, improving livelihoods.
 
@@ -15,7 +15,7 @@
 * Currently no widely adopted digital solution tailored to Rwandan dairy cooperatives.
 
 
-<h1 style="color:green">   Business Goals </h1>
+## Business Goals 
 
 * Deploy application to 10 cooperatives within 12 months.
 
@@ -26,7 +26,7 @@
 * Reduce payment delays by 70% within the first year of use.
 
 
-<h1 style="color:darkgreen">  Product Positioning  </h1>
+##  Product Positioning 
 
 Our app stands out due to:
 
@@ -36,28 +36,28 @@ Our app stands out due to:
 * Integrated notifications and financial tracking.
 
 
-<h1 style="color:darkgreen"> Business Logic </h1>
+## Business Logic 
 
-<h2> Milk delivery recorded by official → Automatically triggers notification to farmer.<h2>
+### Milk delivery recorded by official → Automatically triggers notification to farmer.
 
 ![MilkRecord](./images/milkrecord.png)
 
 
-<h2> Payments are linked to specific milk deliveries.<h2>
+### Payments are linked to specific milk deliveries.<
  
 
 ![MilkRecord](./images/payments.png)
 
 
 
-<h2>Only deliver notifications for confirmed or validated milk deliveries.<h2>
+### Only deliver notifications for confirmed or validated milk deliveries.
 
 
 
 ![MilkRecord](./images/notification1.png)
 
 
-<h1 style="color:green">Technical Requirements </h1>
+### Technical Requirements
 
 * Web-based application accessible on desktop for cooperative officials.
 
@@ -69,7 +69,7 @@ Our app stands out due to:
 
 
 * Integration planned with Mpesa Deraja APIs.
-<h1 style="color:green">Non-Functional Requirements </h1>
+### Non-Functional Requirements
 
 * Fast performance – pages load within 3 seconds.
 
@@ -81,7 +81,7 @@ Our app stands out due to:
 
 
 
-
+For more information on market overview checkout our [competitor analysis](./competitor-analysis.md)
 
 
 
