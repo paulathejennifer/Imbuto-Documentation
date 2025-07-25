@@ -53,10 +53,10 @@ Explore detailed documentation organized by topic:
 - [Introduction](./product-overview.md)  
   Overview of Imbuto, its purpose, key users, and problem statement.
 
-- [Getting Started](./documentation/getting-started.md)  
+- [Getting Started](./getting-started.md)  
   How to access and begin using the platform including registration and onboarding.
 
-- [User Manuals](./documentation/user-manual.md)  
+- [User Manuals](./user-manual.md)  
   Comprehensive manuals covering platform features and workflows for participants.
 
 - [How-To Guides](./how-to-guide.md)  
@@ -84,4 +84,4 @@ Thank you for being part of the Imbuto community and driving positive change thr
 ---
 
 *Navigation Tip:* Click the links above to quickly access the different sections.  
-You can also explore the [full documentation folder here](./documentation/) for all files.
+You can also explore the [full documentation folder here](. /) for all files.
