@@ -23,7 +23,7 @@ Membership Management: Maintain organized records of cooperative members includi
 # Product Overview
 
 ## Product Name  
-Imbuto Hub Diary Platform
+Imbuto Hub Dairy Platform
 
 ## Description  
 The Imbuto Dairy Cooperative Management Platform is an integrated web and mobile solution designed to streamline dairy farming cooperative operations. It facilitates secure user authentication, membership management, milk delivery tracking, payment processing, and progress monitoring to empower farmers and cooperative officials for efficient data-driven decision-making.
