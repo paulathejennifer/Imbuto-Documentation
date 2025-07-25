@@ -1,4 +1,4 @@
-# Imbuto-Documentation
+
 # Imbuto Platform Documentation
 
 Welcome to the **Imbuto Platform** official documentation repository.  
@@ -6,15 +6,46 @@ This platform supports community empowerment through multilingual social project
 
 ---
 
+
 ## Project Overview
 
-Imbuto aims to connect and empower diverse communities by providing tools for:  
-- Multilingual program participation  
-- Progress tracking and reporting  
-- Community collaboration  
-- Data-driven decision making
+Milk Record Management: Efficiently capture and track daily milk deliveries from farmers to the cooperative, with accurate quantity and quality data input.
 
+Progress Tracking: Monitor farmer participation, milk production trends, and cooperative performance over time to enable data-driven decisions.
+
+Payment Processing: Integrate with M-Pesa mobile money to ensure timely, transparent, and secure payment disbursements to farmers directly through the platform.
+
+Membership Management: Maintain organized records of cooperative members including registration, profiles, and participation status for streamlined administration.
 ---
+
+# Product Overview
+
+## Product Name  
+Imbuto Hub Cooperative Management Platform
+
+## Description  
+The Imbuto Dairy Cooperative Management Platform is an integrated web and mobile solution designed to streamline dairy farming cooperative operations. It facilitates secure user authentication, membership management, milk delivery tracking, payment processing, and progress monitoring to empower farmers and cooperative officials for efficient data-driven decision-making.
+
+## Key Features  
+- Secure user authentication for farmers and cooperative officials  
+- Membership management and validation  
+- Daily milk quantity tracking with farmer approval notifications  
+- Payment processing integrated with MTN MoMo API  
+- Visual progress tracking and reporting via dashboards  
+- Role-based access control ensuring data privacy and security
+
+## Target Audience  
+Small to medium dairy cooperatives and farmers who need scalable and reliable tools to manage memberships, production data, and payments.
+
+## Benefits  
+- Simplifies administrative tasks for cooperative officials  
+- Enhances transparency and communication between farmers and cooperatives  
+- Reduces payment delays and errors  
+- Provides insights through data visualization to boost productivity
+
+
+For more information on our platform follow the [How-To Guides](. /how-to-guide.md).
+
 
 ## Documentation Structure
 
@@ -26,7 +57,7 @@ Explore detailed documentation organized by topic:
 - [Getting Started](./getting-started.md)  
   How to access and begin using the platform including registration and onboarding.
 
-- [User Manuals](./user-manual.md)  
+- [User Manuals] (./user-manual.md)  
   Comprehensive manuals covering platform features and workflows for participants.
 
 - [How-To Guides](./how-to-guide.md)  
@@ -57,4 +88,6 @@ Thank you for being part of the Imbuto community and driving positive change thr
 ---
 
 *Navigation Tip:* Click the links above to quickly access the different sections.  
-You can also explore the [full documentation folder here](./) for all files.
+
+You can also explore the [full documentation folder here](.  /) for all files.
+
