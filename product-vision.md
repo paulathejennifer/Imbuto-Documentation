@@ -13,3 +13,7 @@ Traditional dairy cooperative processes are largely manual, resulting in delays,
 - Automate payment schedules and transaction confirmations  
 - Provide visual analytics to support data-driven decisions  
 - Ensure scalable, maintainable architecture using modern technologies (Django, React, PostgreSQL)
+
+For step-by-step instructions, see the [How-To Guides](./how-to-guide.md).
+
+If you face issues, check the [Troubleshooting](./troubleshooting.md) section.
