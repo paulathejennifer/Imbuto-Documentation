@@ -1,5 +1,4 @@
-# Imbuto-Documentation
-# Imbuto-Documentation
+
 # Imbuto Platform Documentation
 
 Welcome to the **Imbuto Platform** official documentation repository.  
