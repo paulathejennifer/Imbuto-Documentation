@@ -36,3 +36,6 @@ Step-by-step instructions to help users accomplish common tasks. Use numbered li
 6. Await confirmation notification.
 
 ![Signup Screen](./images/successsign.png)
+
+If you face issues, check the [Troubleshooting](./troubleshooting.md) section.
+

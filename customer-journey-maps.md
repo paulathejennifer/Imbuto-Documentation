@@ -1,6 +1,7 @@
 # Customer Journey Maps
 
 ![Farmer Persona](./images/fjm.png)
+![Farmer Persona](./images/cjm.png)
 
 ## Customer Journey Imbuto Platform
 
