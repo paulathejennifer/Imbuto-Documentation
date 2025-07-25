@@ -57,7 +57,7 @@ Explore detailed documentation organized by topic:
 - [Getting Started](./getting-started.md)  
   How to access and begin using the platform including registration and onboarding.
 
-- [User Manuals](./user-manual.md)  
+- [User Manuals] (./user-manual.md)  
   Comprehensive manuals covering platform features and workflows for participants.
 
 - [How-To Guides](./how-to-guide.md)  
