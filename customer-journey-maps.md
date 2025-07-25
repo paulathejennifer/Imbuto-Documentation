@@ -39,4 +39,4 @@ The Customer Journey map outlines the key stages and touchpoints that users expe
 
 ---
 
-*This high-level customer journey serves as a framework to identify opportunities for improving user experience and delivering lasting value with the Imbuto platform.*
+*This customer journey serves as a framework to identify opportunities for improving user experience with the Imbuto platform.*

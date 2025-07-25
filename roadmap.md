@@ -31,7 +31,6 @@
 #### **Deployment Stage 4: Analytics & Reporting**
 - Deploy visual analytics dashboards covering key metrics.
 - Enable exportable reports and filtering for data-driven decisions.
-- Continuously enhance the analytics features based on live user feedback.
 
 **Key Outcomes:**  
 - Stakeholders access actionable insights on deliveries, payments, and member progress.
@@ -39,7 +38,6 @@
 
 #### **Deployment Stage 5: Optimization & Maintenance**
 - Deploy performance and scalability improvements.
-- Implement CI/CD pipelines and automated testing for ongoing stability.
 - Provide updated documentation, user guides, and support resources.
 
 **Key Outcomes:**  
@@ -47,7 +45,11 @@
 - Support mechanisms are in place for smooth operation and user assistance.
 
 ### Ongoing Across All Deployment Stages:
-- Monitor system health and user satisfaction.
 - Collect feedback and prioritize improvements.
 - Maintain release notes and documentation with each deployment.
+
+
+
+
+For more information[ check out our Visual representation](https://lucid.app/lucidchart/c9322936-47a1-4a1f-8a22-693673932aa6/edit?viewport_loc=-6724%2C-2099%2C4616%2C2397%2C0_0&invitationId=inv_81a0ff53-a0a9-4553-b23a-d7bc619d30ff).
 

@@ -35,3 +35,20 @@ Progress Tracking: Monitor farmer participation, milk production trends, and coo
 Payment Processing: Integrate with M-Pesa mobile money to ensure timely, transparent, and secure payment disbursements to farmers directly through the platform.
 
 Membership Management: Maintain organized records of cooperative members including registration, profiles, and participation status for streamlined administration.
+
+[Getting Started?](./getting-started.md).
+
+
+
+
+[ User Guide](./user-manual.md). | [ Users](./user-personas.md). | [ Market](./market.md).  |  [ User Roadmap](./roadmap.md).  |  [ Product Vision](./product-vision.md).
+
+
+
+
+
+
+
+If you face issues, check the [Troubleshooting](./troubleshooting.md) section.
+
+
