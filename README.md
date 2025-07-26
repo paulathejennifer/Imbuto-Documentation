@@ -30,7 +30,7 @@ The Imbuto Dairy Cooperative Management Platform is an integrated web and mobile
 - Secure user authentication for farmers and cooperative officials  
 - Membership management and validation  
 - Daily milk quantity tracking with farmer approval notifications  
-- Payment processing integrated with MTN MoMo API  
+- Payment processing integrated with Daraja API  
 - Visual progress tracking and reporting via dashboards  
 - Role-based access control ensuring data privacy and security
 
